@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Currently working on a public property damage reporting app as a team project during my bootcamp training.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style={{ whiteSpace: "nowrap" }}>Connect with me: </h3>
 <p align="left">
   ansquddnr4545@gmail.com
 </p>
