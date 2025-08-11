@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm ByeongWook Moon</h1>
-<h3 align="left">I’m a developer who always strives to be better than yesterday! With a strong passion for turning ideas into reality, I enjoy building user-friendly, impactful applications. My experience ranges from hardware sensor development to full-stack web and mobile app projects, and I’m always eager to learn new technologies and improve my skills.</h3>
+<h3 align="left">I’m a developer who always strives to be better than yesterday!</h3>
+<h2>With a strong passion for turning ideas into reality, I enjoy building user-friendly, impactful applications. My experience ranges from hardware sensor development to full-stack web and mobile app projects, and I’m always eager to learn new technologies and improve my skills.</h2>
 
 - 🔭 I’m currently working on **Currently working on a public property damage reporting app as a team project during my bootcamp training.**
 
