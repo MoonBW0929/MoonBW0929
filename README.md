@@ -1,6 +1,11 @@
-## About me
-Hi👋, This is ByeongWook Moon, a developer who codes dreams.
+About me
+## Hi there 👋
+I’m a developer who always strives to be better than yesterday!  
+With a strong passion for turning ideas into reality, I enjoy building user-friendly, impactful applications.  
+My experience ranges from hardware sensor development to full-stack web and mobile app projects,  
+and I’m always eager to learn new technologies and improve my skills.
 
+🚀 **Skills:** React, Node.js, Python, Oracle DB, Azure AI, Embedded
 <!--
 **MoonBW0929/MoonBW0929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
