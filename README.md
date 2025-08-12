@@ -2,7 +2,7 @@
 <h3 align="left">I’m a developer who always strives to be better than yesterday!</h3>
 <h4>With a strong passion for turning ideas into reality, I enjoy building user-friendly, impactful applications. My experience ranges from hardware sensor development to full-stack web and mobile app projects, and I’m always eager to learn new technologies and improve my skills.</h4>
 
-- 🔭 I’m currently working on **Currently working on a public property damage reporting app as a team project during my bootcamp training.**
+- 🔭 I’m currently working on **Currently working on a public property damage reporting app as a team project during my bootcamp training. (MS_Project_Ainuri)**
 
 - 📫 How to reach me **ansquddnr4545@gmail.com**
 
